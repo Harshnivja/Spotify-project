@@ -1,49 +1,24 @@
 # 🎵 Spotify Clone
 
-A front-end clone of the popular music streaming app **Spotify**, built using **HTML**, **CSS**, and **JavaScript**.  
-This project replicates the core layout and design of Spotify’s interface to help understand front-end development fundamentals.
+A responsive **Spotify Clone** built using **HTML**, **CSS**, and **JavaScript**. This project replicates the basic layout and functionality of Spotify's music player interface, including interactive controls and modern UI styling.
 
----
+## 🚀 Live Preview
 
-## 🌐 Live Demo
-
-👉 [Click here to view the live preview](https://harshnivja.github.io/Spotify-project/)
-
----
-
-## 📸 Preview
-
-> _(Add a screenshot of your homepage and player UI here after pushing your project.)_
-
----
+[![View Live](https://img.shields.io/badge/Live%20Preview-Click%20Here-green?style=for-the-badge)](https://Harshnivja.github.io/Spotify-project)
 
 ## 🛠️ Tech Stack
 
-- **HTML5** – for page structure
-- **CSS3** – for layout and responsive design
-- **JavaScript** – for basic functionality and UI interactivity
+- **HTML5** – Semantic structure
+- **CSS3** – Flexbox, Grid, responsive styling
+- **JavaScript** – DOM manipulation, event handling
 
----
+## ✨ Features
 
-## 🚀 Features
+- 🎧 Music player UI layout
+- ▶️ Play and pause functionality
+- 📱 Responsive design for mobile & desktop
+- 🔊 Audio file handling with JS
+- 🎨 Clean and modern visual design
 
-- 🎧 Spotify-like layout and styling
-- 🧭 Navigation bar, sidebar, and main content area
-- ▶️ Play/pause UI controls
-- 🎵 Song list interface
-- 📱 Responsive design for mobile and desktop
 
----
-
-## 📁 Project Structure
-
-```bash
-SpotifyClone/
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── images/
-│   └── songs/
-└── README.md
 
